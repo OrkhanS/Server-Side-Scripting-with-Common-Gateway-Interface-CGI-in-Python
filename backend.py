@@ -165,14 +165,3 @@ def showallPosts():
     data=cursor.fetchall()
     for s in data:
         print(s)
-
-# register("alik","salam","KKK","adsd.com","32","aad.com","2","1ad1")
-# login("orkhan","salam")
-# logOut("132936puz")
-# showallUsers()
-# postInternship("34002lwi", "HP", "Hedepe poxdu", "Fuck you all", "2021-08-02")
-# showallPosts()
-# showActivePosts()
-# showCategorisedPosts(1)
-# FilteredPostsByKeyword("how")
-# FilteredPostsByKeywordAndCity("how",1)
